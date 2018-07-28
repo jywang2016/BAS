@@ -25,4 +25,5 @@ Note: Different random seed will cause different results.
 Reference
 ---------
 
-Jiang X, Li S. BAS: Beetle Antennae Search Algorithm for Optimization Problems\[J\]. 2017.
+[X. Y. Jiang, and S. Li, “BAS: beetle antennae search algorithm for
+optimization problems,” arXiv:1710.10724v1.
